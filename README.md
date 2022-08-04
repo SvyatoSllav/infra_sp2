@@ -9,8 +9,17 @@
 Благодарные или возмущённые пользователи оставляют к произведениям текстовые отзывы (Review) и ставят произведению оценку в диапазоне от одного до десяти (целое число); из пользовательских оценок формируется усреднённая оценка произведения — рейтинг (целое число). 
 На одно произведение пользователь может оставить только один отзыв.
 
-### Технологии в проекте:
- - Django, Django REST Framework, Python, Docker, Nginx.
+### **Стек**
+![python version](https://img.shields.io/badge/Python-3.7-green)
+![django version](https://img.shields.io/badge/Django-2.2-green)
+![pillow version](https://img.shields.io/badge/Pillow-8.3-green)
+![pytest version](https://img.shields.io/badge/pytest-6.2-green)
+![sorl-thumbnail version](https://img.shields.io/badge/thumbnail-12.7-green)
+![sorl-thumbnail version](https://img.shields.io/badge/Django%20REST%20Framework-%203.12.4-green)
+![python version](https://img.shields.io/badge/Docker-3.3-green)
+![python version](https://img.shields.io/badge/Nginx-%201.18-green)
+![python version](https://img.shields.io/badge/Docker-3.3-green)
+![python version](https://img.shields.io/badge/Docker-3.3-green)
 
 ### Как запустить проект:
 
